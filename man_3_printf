@@ -12,7 +12,7 @@
 
 .             \" Section Header - required - don't modify
 
-.
+.Nm _Printf,
 
 .\" The following lines are read in generating the apropos(man -k) database. Use only key
 
